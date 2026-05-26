@@ -1,10 +1,4 @@
 # Retail Customer Intelligence & Loyalty Optimization
-
-![Python](https://img.shields.io/badge/Python-Analytics-blue)
-![SQL](https://img.shields.io/badge/SQL-Business%20Analysis-orange)
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboards-yellow)
-![Status](https://img.shields.io/badge/Project-Completed-green)
-
 ---
 
 ## 📊 Project Overview
