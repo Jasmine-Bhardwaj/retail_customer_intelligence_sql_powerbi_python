@@ -113,39 +113,33 @@ Raw Dataset → Python Data Cleaning → SQL Business Analysis → Power BI Dash
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-```text
-retail_customer_intelligence_sql_powerbi_python/
-│
-├── README.md
-│
-├── 00_project_overview/
-│   ├── project_workflow_diagram.png
-│
-├── 01_data/
-│   ├── raw_dataset.csv
-│   ├── cleaned_dataset.csv
-│
-├──02_python/
-│   ├── data_cleaning.ipynb
-│
-├──03_sql/
-│   ├── retail_queries.sql
-│
-├──04_power_bi/
-│   ├── retail_customer_intelligence_and_loyalty_optimisation_dashboard.pbix
-│
-├──05_dashboard_images/
-│   ├── dashboard_1_overview.png
-│   ├── dashboard_2_customer_behaviour.png
-│   ├── dashboard_3_sales_performance.png
-│
-├── 06_project_report/
-│   ├── retail_customer_intelligence_&_loyalty_optimization_report.pdf
-│
-```
+- [README.md](README.md)
 
+- [00_project_overview](00_project_overview/)
+  - project_workflow_diagram.png
+
+- [01_data](01_data/)
+  - raw_dataset.csv
+  - cleaned_dataset.csv
+
+- [02_python](02_python/)
+  - data_cleaning.ipynb
+
+- [03_sql](03_sql/)
+  - retail_queries.sql
+
+- [04_power_bi](04_power_bi/)
+  - retail_customer_intelligence_and_loyalty_optimisation_dashboard.pbix
+
+- [05_dashboard_images](05_dashboard_images/)
+  - dashboard_1_overview.png
+  - dashboard_2_customer_behaviour.png
+  - dashboard_3_sales_performance.png
+
+- [06_project_report](06_project_report/)
+  - retail_customer_intelligence_&_loyalty_optimization_report.pdf
 ---
 
 ## 👤 Author & Contact
