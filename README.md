@@ -128,8 +128,8 @@ Raw Dataset → Python Data Cleaning → SQL Business Analysis → Power BI Dash
   - project_workflow_diagram.png
 
 - [01_data](01_data/)
-  - raw_dataset.csv
-  - cleaned_dataset.csv
+  - retail_customer_intelligence_raw_dataset.csv
+  - retail_customer_intelligence_cleaned.csv
 
 - [02_python](02_python/)
   - data_cleaning.ipynb
