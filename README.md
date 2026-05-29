@@ -91,7 +91,7 @@ Raw Dataset → Python Data Cleaning → SQL Business Analysis → Power BI Dash
 
 ---
 
-### Strategic Focus Areas
+###  Strategic Focus Areas
 
 - Strengthen retention strategies for high-value customer segments  
 - Optimize discount allocation to balance revenue and profitability  
