@@ -82,14 +82,12 @@ Raw Dataset → Python Data Cleaning → SQL Business Analysis → Power BI Dash
 
 ---
 
-## 💡 Key Insights & Strategic Recommendations
+##💡 Key Insights & Strategic Recommendations
 
-- Customer retention rate of **79.7%** indicates relatively strong repeat engagement  
-- Revenue generation is concentrated among high-value customer segments, showing clear **customer concentration patterns**  
-- Subscription customers demonstrate higher long-term value contribution  
-- Discount strategies significantly influence purchasing behavior and require optimization for profitability  
-- Category performance varies significantly across customer groups, indicating uneven product contribution  
-- Seasonal trends have a measurable impact on transaction behavior and demand patterns  
+- Top 20% of customers contributed 67.46% of total revenue — indicating high concentration risk and need for retention-focused diversification
+- Customer retention rate of 79.7% signals solid repeat engagement, but the 20.3% churn gap represents measurable lost revenue
+- Subscription program shows near-zero spend impact ($59.49 vs $59.86 avg. purchase) — incentive structure needs a complete redesign
+- Discount allocation is broad rather than targeted — no meaningful concentration toward high-value or churn-risk segments
 
 ### Strategic Focus Areas
 
