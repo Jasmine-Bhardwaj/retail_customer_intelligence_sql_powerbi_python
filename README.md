@@ -82,7 +82,7 @@ Raw Dataset → Python Data Cleaning → SQL Business Analysis → Power BI Dash
 
 ---
 
-##💡 Key Insights & Strategic Recommendations
+## 💡 Key Insights & Strategic Recommendations
 
 - Top 20% of customers contributed 67.46% of total revenue — indicating high concentration risk and need for retention-focused diversification
 - Customer retention rate of 79.7% signals solid repeat engagement, but the 20.3% churn gap represents measurable lost revenue
