@@ -89,6 +89,8 @@ Raw Dataset → Python Data Cleaning → SQL Business Analysis → Power BI Dash
 - Subscription program shows near-zero spend impact ($59.49 vs $59.86 avg. purchase) — incentive structure needs a complete redesign
 - Discount allocation is broad rather than targeted — no meaningful concentration toward high-value or churn-risk segments
 
+---
+
 ### Strategic Focus Areas
 
 - Strengthen retention strategies for high-value customer segments  
